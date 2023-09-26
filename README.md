@@ -28,7 +28,7 @@
 
 
 -After execution
-<img src ="./images of execution/ resultant pdf.png" > 
+<img src ="./images of execution/resultant pdf.png" > 
 
 
 
